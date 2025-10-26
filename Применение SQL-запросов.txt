@@ -1,0 +1,127 @@
+--Применение JOIN (объединение таблиц по строкам с последующей группировкой данных)
+select c.city, count(o.order_id) from customers c 
+left join orders o on o.customer_id = c.customer_id
+group by c.city 
+order by count(o.order_id);
+
+
+select c.contact_name, count(o.order_id), c.city from customers c
+left join orders o on o.customer_id =c.customer_id
+group by c.contact_name, c.city
+having count(o.order_id) = 0
+order by count(o.order_id);
+
+--Применение UNION (объединение таблиц по столбцам с последующим выводом количества)
+select count(*) from 
+(select e.city from employees e
+union
+select c2.city from customers c2) as res;
+
+--Применение CTE
+with res2 as
+(select c.country, count(c.customer_id) from customers c
+group by c.country
+having count(c.customer_id) > 1)
+select count(*) from res2;
+
+with res3 as
+(select c.customer_id, count(o.order_id) from customers c
+left join orders o on o.customer_id = c.customer_id
+group by c.customer_id
+having count(o.order_id) > 10)
+select count(*) from res3;
+
+with tab1 as 
+(select o.ship_city, count(*) from orders o
+where date_part('year', o.order_date) = '1997'
+group by o.ship_city
+having count(*) > 5)
+select count(*) from tab1;
+
+--Применение JOIN и CTE 
+with res4 as
+(select o.order_id, sum(od.unit_price * (1-od.discount)*od.quantity) as itog from orders o
+left join order_details od on od.order_id = o.order_id
+left join products p on p.product_id = od.product_id
+where p.category_id = 1
+group by o.order_id)
+select sum(itog) from res4;
+
+-- Применение JOIN с условием WHERE с последующим выводом количества
+select count(*) from orders o 
+left join order_details od on od.order_id = o.order_id 
+left join products p on p.product_id = od.product_id
+where p.product_name = 'Chocolade';
+
+-- Применение JOIN с условием WHERE
+select e.first_name, e.last_name from orders o 
+left join customers c on c.customer_id = o.customer_id
+left join employees e on e.employee_id = o.employee_id 
+where o.order_date = '1998-04-29' and c.contact_name = 'Simon Crowther';
+
+
+--Применение вложенного запроса и функции CASE для реализации условной логики
+select price_category, count(*) 
+from
+(select p.product_name, p.unit_price, (case when p.unit_price > 0 and p.unit_price <= 9.99 then '0-9.99'
+											when p.unit_price >= 10 and p.unit_price <= 29.99 then '10-29.99'
+											when p.unit_price >= 30 and p.unit_price <= 49.99 then '30-49.99'
+											when p.unit_price >= 50 then '50+' end) as price_category
+from products p) as t1
+group by price_category;
+
+
+
+--Применение агрегирующих оконных функций
+select od.order_id, od.unit_price,
+sum(unit_price) over (partition by od.order_id) as sum_unit_price,
+avg(unit_price) over (partition by od.order_id) as avg_unit_price,
+min(unit_price) over (partition by od.order_id) as min_unit_price,
+max(unit_price) over (partition by od.order_id) as max_unit_price
+from order_details od;
+
+
+--Применение агрегирующий функции к объединенным таблицам по JOIN
+select od.product_id, p.product_name, od.unit_price,
+sum(od.unit_price) over (partition by od.product_id) as sum_unit_price,
+count(*) over (partition by od.product_id) as count_unit_price
+from order_details od
+left join products p on p.product_id = od.product_id;
+
+--Применение ранжирующих оконных функций
+select od.order_id, p.product_name, od.quantity,
+row_number() over (partition by od.order_id order by od.quantity desc) as row_quntity,
+rank() over (partition by od.order_id order by od.quantity desc) as rank_quantity,
+dense_rank() over (partition by od.order_id order by od.quantity desc) as dense_qnt 
+from order_details od
+left join products p on p.product_id = od.product_id; 
+
+select od.product_id,p.product_name , od.quantity,
+row_number() over (partition by od.product_id order by od.quantity desc) as row_quntity,
+rank() over (partition by od.product_id order by od.quantity desc) as rank_quantity,
+dense_rank() over (partition by od.product_id order by od.quantity desc) as dense_qnt 
+from order_details od
+left join products p on p.product_id = od.product_id;
+
+--Применение класса смещения в оконных функциях и вложенных подзапросов
+select *, lag(sum_price) over (order by product_id, m_y) as previous_sum_price from
+(select product_id, sum(unit_price) as sum_price, concat(month1, '.', year1) as m_y
+from
+(select *, date_part('year', o.order_date) as year1, date_part('month', o.order_date) as month1 from orders o
+left join order_details od on od.order_id = o.order_id) as t2
+group by product_id, m_y
+order by product_id, m_y desc) as t3;
+
+--Обработка дат по месяцу и году
+with tab5 as
+(select o.order_id, o.order_date, date_part('month', o.order_date) as month2, c.country from orders o
+left join customers c on c.customer_id = o.customer_id
+where c.country = 'USA' and date_part('year', o.order_date) = 1996 and date_part('month', o.order_date) = 12)
+select count(*) from tab5;
+
+
+select o.employee_id, date_part('year', o.order_date) as year1, date_part('month', o.order_date) as month1,
+count(o.order_id)
+from orders o
+group by o.employee_id, year1, month1
+order by count(o.order_id) desc;
