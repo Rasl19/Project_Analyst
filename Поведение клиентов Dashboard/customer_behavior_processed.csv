@@ -1,0 +1,351 @@
+Age,Annual_Income,Spending_Score,Monthly_Visits,Gender,Preferred_Product,age_group,spending_category,income_level,visit_frequency,cost_year
+56,26102,85,6,Female,Clothing,50+,VIP Spender,Low (<50k),Medium (4-6),17908
+46,70336,75,18,Male,Home,36-50,High Spender,Medium (50-80k),Very High (10+),48277
+32,105314,36,10,Male,Groceries,26-35,Low Spender,High (>80k),Very High (10+),4455
+60,46641,99,5,Female,Electronics,50+,VIP Spender,Low (<50k),Medium (4-6),5958
+25,54584,19,10,Male,Electronics,18-25,Low Spender,Medium (50-80k),Very High (10+),17054
+38,52745,20,12,Male,Electronics,36-50,Low Spender,Medium (50-80k),Very High (10+),22111
+56,43093,57,2,Male,Clothing,50+,Moderate Spender,Low (<50k),Low (1-3),22584
+36,86105,18,13,Male,Sports,36-50,Low Spender,High (>80k),Very High (10+),41645
+40,71885,47,8,Male,Home,36-50,Moderate Spender,Medium (50-80k),High (7-9),21377
+28,56631,49,2,Female,Groceries,26-35,Moderate Spender,Medium (50-80k),Low (1-3),37335
+28,92991,14,1,Male,Groceries,26-35,Low Spender,High (>80k),Low (1-3),63821
+41,24014,15,5,Male,Clothing,36-50,Low Spender,Low (<50k),Medium (4-6),13486
+53,31093,31,9,Male,Electronics,50+,Low Spender,Low (<50k),High (7-9),2495
+57,38070,1,17,Male,Clothing,50+,Low Spender,Low (<50k),Very High (10+),19858
+41,55777,54,9,Female,Sports,36-50,Moderate Spender,Medium (50-80k),High (7-9),7267
+20,76958,3,11,Female,Sports,18-25,Low Spender,Medium (50-80k),Very High (10+),50076
+39,102074,16,15,Female,Home,36-50,Low Spender,High (>80k),Very High (10+),23602
+19,30729,87,6,Female,Home,18-25,VIP Spender,Low (<50k),Medium (4-6),17250
+41,119713,57,3,Male,Sports,36-50,Moderate Spender,High (>80k),Low (1-3),61055
+61,65017,75,17,Female,Sports,50+,High Spender,Medium (50-80k),Very High (10+),7927
+47,86320,12,5,Male,Sports,36-50,Low Spender,High (>80k),Medium (4-6),26748
+55,47751,74,12,Male,Clothing,50+,High Spender,Low (<50k),Very High (10+),14421
+19,98069,96,18,Male,Sports,18-25,VIP Spender,High (>80k),Very High (10+),67382
+38,74748,16,14,Male,Groceries,36-50,Low Spender,Medium (50-80k),Very High (10+),26231
+50,25801,72,11,Male,Electronics,36-50,High Spender,Low (<50k),Very High (10+),16687
+29,39190,76,9,Female,Sports,26-35,High Spender,Low (<50k),High (7-9),8583
+39,69689,24,2,Female,Electronics,36-50,Low Spender,Medium (50-80k),Low (1-3),40866
+61,70993,28,12,Female,Clothing,50+,Low Spender,Medium (50-80k),Very High (10+),26118
+42,49592,8,3,Female,Electronics,36-50,Low Spender,Low (<50k),Low (1-3),955
+44,30647,92,3,Male,Clothing,36-50,VIP Spender,Low (<50k),Low (1-3),16123
+59,28716,36,1,Female,Groceries,50+,Low Spender,Low (<50k),Low (1-3),15365
+45,108891,90,8,Male,Clothing,36-50,VIP Spender,High (>80k),High (7-9),6361
+33,107545,8,8,Female,Clothing,26-35,Low Spender,High (>80k),High (7-9),7672
+32,109912,58,11,Male,Home,26-35,Moderate Spender,High (>80k),Very High (10+),45658
+64,90316,60,9,Male,Sports,50+,High Spender,High (>80k),High (7-9),62702
+61,22368,50,5,Female,Sports,50+,Moderate Spender,Low (<50k),Medium (4-6),12268
+20,97575,28,14,Male,Groceries,18-25,Low Spender,High (>80k),Very High (10+),66571
+54,26655,92,3,Male,Groceries,50+,VIP Spender,Low (<50k),Low (1-3),10834
+24,90031,41,5,Female,Sports,18-25,Moderate Spender,High (>80k),Medium (4-6),10932
+38,96429,64,5,Male,Home,36-50,High Spender,High (>80k),Medium (4-6),57033
+26,111083,27,19,Female,Sports,26-35,Low Spender,High (>80k),Very High (10+),50142
+56,107922,63,14,Female,Home,50+,High Spender,High (>80k),Very High (10+),27312
+35,75766,17,4,Female,Groceries,26-35,Low Spender,Medium (50-80k),Medium (4-6),36762
+21,33403,73,13,Male,Electronics,18-25,High Spender,Low (<50k),Very High (10+),14696
+42,52097,33,10,Male,Groceries,36-50,Low Spender,Medium (50-80k),Very High (10+),33430
+31,98657,84,18,Male,Groceries,26-35,VIP Spender,High (>80k),Very High (10+),68543
+26,30966,77,8,Female,Clothing,26-35,High Spender,Low (<50k),High (7-9),9462
+43,119157,92,8,Male,Clothing,36-50,VIP Spender,High (>80k),High (7-9),44524
+19,113848,29,7,Female,Clothing,18-25,Low Spender,High (>80k),High (7-9),69408
+37,72921,13,8,Female,Clothing,36-50,Low Spender,Medium (50-80k),High (7-9),23470
+45,69726,46,14,Male,Home,36-50,Moderate Spender,Medium (50-80k),Very High (10+),27227
+64,70300,35,19,Female,Sports,50+,Low Spender,Medium (50-80k),Very High (10+),30751
+24,42677,6,6,Male,Electronics,18-25,Low Spender,Low (<50k),Medium (4-6),19519
+61,75609,82,1,Male,Groceries,50+,VIP Spender,Medium (50-80k),Low (1-3),22661
+25,116825,69,15,Male,Home,18-25,High Spender,High (>80k),Very High (10+),18192
+64,76661,47,1,Male,Electronics,50+,Moderate Spender,Medium (50-80k),Low (1-3),53126
+52,51024,25,17,Male,Home,50+,Low Spender,Medium (50-80k),Very High (10+),26705
+31,90313,66,1,Female,Home,26-35,High Spender,High (>80k),Low (1-3),50659
+34,73006,10,15,Female,Groceries,26-35,Low Spender,Medium (50-80k),Very High (10+),27157
+53,115285,56,2,Female,Sports,50+,Moderate Spender,High (>80k),Low (1-3),26932
+57,35338,30,14,Male,Clothing,50+,Low Spender,Low (<50k),Very High (10+),9909
+21,88027,5,8,Male,Sports,18-25,Low Spender,High (>80k),High (7-9),10031
+19,112772,33,8,Male,Groceries,18-25,Low Spender,High (>80k),High (7-9),49462
+23,100135,65,19,Female,Groceries,18-25,High Spender,High (>80k),Very High (10+),33729
+59,39508,18,7,Male,Groceries,50+,Low Spender,Low (<50k),High (7-9),20065
+21,23051,96,19,Female,Electronics,18-25,VIP Spender,Low (<50k),Very High (10+),7294
+46,68747,49,6,Female,Sports,36-50,Moderate Spender,Medium (50-80k),Medium (4-6),20099
+35,107142,11,6,Male,Sports,26-35,Low Spender,High (>80k),Medium (4-6),61580
+43,107235,85,3,Male,Home,36-50,VIP Spender,High (>80k),Low (1-3),30827
+61,74021,26,7,Female,Home,50+,Low Spender,Medium (50-80k),High (7-9),22588
+51,86412,63,19,Male,Home,50+,High Spender,High (>80k),Very High (10+),25417
+27,78335,89,8,Female,Groceries,26-35,VIP Spender,Medium (50-80k),High (7-9),11472
+53,76179,86,10,Male,Sports,50+,VIP Spender,Medium (50-80k),Very High (10+),39592
+31,52093,59,15,Male,Groceries,26-35,Moderate Spender,Medium (50-80k),Very High (10+),33102
+48,89678,27,15,Female,Electronics,36-50,Low Spender,High (>80k),Very High (10+),25437
+32,100738,49,1,Male,Home,26-35,Moderate Spender,High (>80k),Low (1-3),12930
+25,59734,77,7,Female,Groceries,18-25,High Spender,Medium (50-80k),High (7-9),8450
+31,92615,33,4,Male,Groceries,26-35,Low Spender,High (>80k),Medium (4-6),35951
+40,93523,98,6,Female,Electronics,36-50,VIP Spender,High (>80k),Medium (4-6),55267
+57,114476,99,1,Female,Clothing,50+,VIP Spender,High (>80k),Low (1-3),34275
+38,37019,1,5,Male,Sports,36-50,Low Spender,Low (<50k),Medium (4-6),16281
+33,103613,21,1,Female,Clothing,26-35,Low Spender,High (>80k),Low (1-3),34371
+62,111794,55,4,Male,Home,50+,Moderate Spender,High (>80k),Medium (4-6),77818
+35,106672,6,2,Male,Groceries,26-35,Low Spender,High (>80k),Low (1-3),58793
+64,93847,92,10,Male,Electronics,50+,VIP Spender,High (>80k),Very High (10+),38901
+41,102750,81,5,Female,Electronics,36-50,VIP Spender,High (>80k),Medium (4-6),18393
+43,99634,69,10,Female,Sports,36-50,High Spender,High (>80k),Very High (10+),30888
+42,48251,95,1,Male,Clothing,36-50,VIP Spender,Low (<50k),Low (1-3),24128
+62,45945,5,6,Male,Sports,50+,Low Spender,Low (<50k),Medium (4-6),23743
+58,110852,3,13,Female,Groceries,50+,Low Spender,High (>80k),Very High (10+),76912
+46,52217,53,15,Male,Sports,36-50,Moderate Spender,Medium (50-80k),Very High (10+),6619
+32,28308,23,4,Male,Electronics,26-35,Low Spender,Low (<50k),Medium (4-6),14183
+62,25949,53,13,Female,Electronics,50+,Moderate Spender,Low (<50k),Very High (10+),17687
+18,71990,37,15,Male,Home,18-25,Low Spender,Medium (50-80k),Very High (10+),39713
+42,21150,74,8,Female,Home,36-50,High Spender,Low (<50k),High (7-9),5715
+24,109480,74,5,Male,Groceries,18-25,High Spender,High (>80k),Medium (4-6),46094
+26,94740,83,15,Female,Clothing,26-35,VIP Spender,High (>80k),Very High (10+),17458
+41,86617,17,4,Male,Sports,36-50,Low Spender,High (>80k),Medium (4-6),40727
+18,114841,85,12,Male,Groceries,18-25,VIP Spender,High (>80k),Very High (10+),71964
+61,36896,78,13,Female,Home,50+,High Spender,Low (<50k),Very High (10+),24579
+25,66175,73,2,Male,Sports,18-25,High Spender,Medium (50-80k),Low (1-3),34631
+41,27805,1,19,Female,Home,36-50,Low Spender,Low (<50k),Very High (10+),12728
+28,25237,51,19,Male,Sports,26-35,Moderate Spender,Low (<50k),Very High (10+),12570
+34,40056,45,4,Female,Clothing,26-35,Moderate Spender,Low (<50k),Medium (4-6),26300
+25,65543,77,4,Female,Groceries,18-25,High Spender,Medium (50-80k),Medium (4-6),26195
+52,76556,4,11,Female,Sports,50+,Low Spender,Medium (50-80k),Very High (10+),418
+52,23343,62,5,Female,Electronics,50+,High Spender,Low (<50k),Medium (4-6),15800
+50,33500,65,11,Male,Electronics,36-50,High Spender,Low (<50k),Very High (10+),4638
+22,73222,32,10,Male,Sports,18-25,Low Spender,Medium (50-80k),Very High (10+),1062
+59,49375,34,8,Female,Sports,50+,Low Spender,Low (<50k),High (7-9),10502
+56,29662,92,6,Female,Sports,50+,VIP Spender,Low (<50k),Medium (4-6),4612
+58,36964,95,6,Female,Electronics,50+,VIP Spender,Low (<50k),Medium (4-6),3115
+45,79638,72,8,Male,Electronics,36-50,High Spender,Medium (50-80k),High (7-9),15131
+24,93666,39,15,Male,Sports,18-25,Low Spender,High (>80k),Very High (10+),41381
+26,105067,26,14,Male,Home,26-35,Low Spender,High (>80k),Very High (10+),63228
+25,87215,34,11,Male,Home,18-25,Low Spender,High (>80k),Very High (10+),5944
+29,89042,54,12,Female,Clothing,26-35,Moderate Spender,High (>80k),Very High (10+),18138
+51,33284,3,13,Female,Groceries,50+,Low Spender,Low (<50k),Very High (10+),10619
+50,92789,50,8,Female,Home,36-50,Moderate Spender,High (>80k),High (7-9),22701
+40,104664,12,18,Male,Electronics,36-50,Low Spender,High (>80k),Very High (10+),24124
+41,113468,65,1,Male,Home,36-50,High Spender,High (>80k),Low (1-3),5911
+54,81389,54,15,Male,Clothing,50+,Moderate Spender,High (>80k),Very High (10+),39432
+52,29435,5,8,Female,Clothing,50+,Low Spender,Low (<50k),High (7-9),12977
+61,74340,94,11,Female,Groceries,50+,VIP Spender,Medium (50-80k),Very High (10+),18274
+57,64078,94,12,Male,Home,50+,VIP Spender,Medium (50-80k),Very High (10+),17628
+39,98832,57,12,Female,Electronics,36-50,Moderate Spender,High (>80k),Very High (10+),23091
+44,71293,17,4,Male,Electronics,36-50,Low Spender,Medium (50-80k),Medium (4-6),14695
+52,115981,47,16,Male,Sports,50+,Moderate Spender,High (>80k),Very High (10+),21113
+18,98781,23,4,Female,Electronics,18-25,Low Spender,High (>80k),Medium (4-6),49035
+52,80403,79,5,Male,Groceries,50+,High Spender,High (>80k),Medium (4-6),12176
+54,49124,85,5,Female,Groceries,50+,VIP Spender,Low (<50k),Medium (4-6),16439
+64,115435,14,8,Male,Electronics,50+,Low Spender,High (>80k),High (7-9),29351
+31,63919,66,10,Female,Electronics,26-35,High Spender,Medium (50-80k),Very High (10+),38366
+20,55247,75,17,Female,Sports,18-25,High Spender,Medium (50-80k),Very High (10+),6592
+18,114758,51,9,Female,Electronics,18-25,Moderate Spender,High (>80k),High (7-9),38271
+22,111747,38,19,Male,Sports,18-25,Low Spender,High (>80k),Very High (10+),58015
+43,82752,64,14,Male,Sports,36-50,High Spender,High (>80k),Very High (10+),34664
+31,76573,98,8,Female,Electronics,26-35,VIP Spender,Medium (50-80k),High (7-9),47325
+56,79101,38,9,Female,Clothing,50+,Low Spender,Medium (50-80k),High (7-9),43566
+44,46646,50,11,Male,Clothing,36-50,Moderate Spender,Low (<50k),Very High (10+),9027
+26,43049,98,1,Male,Sports,26-35,VIP Spender,Low (<50k),Low (1-3),14934
+32,99605,82,14,Male,Electronics,26-35,VIP Spender,High (>80k),Very High (10+),7388
+32,118116,30,5,Female,Clothing,26-35,Low Spender,High (>80k),Medium (4-6),72130
+43,117379,79,14,Male,Electronics,36-50,High Spender,High (>80k),Very High (10+),66666
+59,88385,91,4,Male,Electronics,50+,VIP Spender,High (>80k),Medium (4-6),2838
+30,60158,51,1,Female,Electronics,26-35,Moderate Spender,Medium (50-80k),Low (1-3),11817
+49,85417,63,19,Male,Home,36-50,High Spender,High (>80k),Very High (10+),53620
+56,43289,98,8,Male,Electronics,50+,VIP Spender,Low (<50k),High (7-9),9877
+49,29823,52,15,Male,Home,36-50,Moderate Spender,Low (<50k),Very High (10+),5172
+21,80160,38,15,Female,Sports,18-25,Low Spender,High (>80k),Very High (10+),34505
+47,61975,97,9,Female,Clothing,36-50,VIP Spender,Medium (50-80k),High (7-9),8939
+54,29540,88,9,Female,Clothing,50+,VIP Spender,Low (<50k),High (7-9),3994
+40,36364,79,10,Female,Clothing,36-50,High Spender,Low (<50k),Very High (10+),12444
+56,24611,30,9,Female,Clothing,50+,Low Spender,Low (<50k),High (7-9),11578
+62,47663,51,3,Female,Clothing,50+,Moderate Spender,Low (<50k),Low (1-3),18162
+32,71991,81,11,Female,Clothing,26-35,VIP Spender,Medium (50-80k),Very High (10+),6020
+60,77679,5,6,Male,Clothing,50+,Low Spender,Medium (50-80k),Medium (4-6),15535
+46,50977,29,2,Male,Sports,36-50,Low Spender,Medium (50-80k),Low (1-3),22258
+53,114704,4,7,Female,Electronics,50+,Low Spender,High (>80k),High (7-9),28850
+30,69115,10,18,Male,Groceries,26-35,Low Spender,Medium (50-80k),Very High (10+),28697
+49,111007,56,2,Male,Home,36-50,Moderate Spender,High (>80k),Low (1-3),33511
+24,108223,17,17,Female,Groceries,18-25,Low Spender,High (>80k),Very High (10+),60693
+39,80890,74,11,Male,Groceries,36-50,High Spender,High (>80k),Very High (10+),34668
+45,86387,17,12,Male,Electronics,36-50,Low Spender,High (>80k),Very High (10+),26101
+19,38071,84,19,Male,Electronics,18-25,VIP Spender,Low (<50k),Very High (10+),21253
+59,79275,88,7,Male,Electronics,50+,VIP Spender,Medium (50-80k),High (7-9),37976
+62,92369,69,6,Male,Clothing,50+,High Spender,High (>80k),Medium (4-6),61377
+23,31938,34,1,Female,Sports,18-25,Low Spender,Low (<50k),Low (1-3),20945
+45,55195,6,17,Female,Clothing,36-50,Low Spender,Medium (50-80k),Very High (10+),27506
+45,111680,53,11,Female,Sports,36-50,Moderate Spender,High (>80k),Very High (10+),16362
+61,24000,66,18,Male,Sports,50+,High Spender,Low (<50k),Very High (10+),136
+61,90588,77,17,Female,Groceries,50+,High Spender,High (>80k),Very High (10+),58815
+37,113610,43,7,Male,Groceries,36-50,Moderate Spender,High (>80k),High (7-9),60694
+47,117856,75,17,Male,Sports,36-50,High Spender,High (>80k),Very High (10+),36683
+28,58304,23,9,Male,Sports,26-35,Low Spender,Medium (50-80k),High (7-9),5962
+45,89449,55,17,Male,Clothing,36-50,Moderate Spender,High (>80k),Very High (10+),49270
+42,102986,80,8,Female,Clothing,36-50,VIP Spender,High (>80k),High (7-9),3137
+56,109643,95,17,Female,Groceries,50+,VIP Spender,High (>80k),Very High (10+),8386
+50,40764,75,7,Male,Electronics,36-50,High Spender,Low (<50k),High (7-9),6806
+18,106027,16,1,Female,Sports,18-25,Low Spender,High (>80k),Low (1-3),5575
+44,58494,8,13,Male,Clothing,36-50,Low Spender,Medium (50-80k),Very High (10+),6980
+30,23373,4,19,Female,Groceries,26-35,Low Spender,Low (<50k),Very High (10+),16259
+58,32161,4,19,Female,Clothing,50+,Low Spender,Low (<50k),Very High (10+),2712
+20,117532,56,17,Male,Sports,18-25,Moderate Spender,High (>80k),Very High (10+),52072
+56,112658,25,13,Female,Sports,50+,Low Spender,High (>80k),Very High (10+),52391
+23,47350,67,16,Male,Home,18-25,High Spender,Low (<50k),Very High (10+),5814
+25,113008,96,8,Female,Electronics,18-25,VIP Spender,High (>80k),High (7-9),73221
+44,114297,67,19,Male,Home,36-50,High Spender,High (>80k),Very High (10+),25894
+26,45351,27,18,Male,Groceries,26-35,Low Spender,Low (<50k),Very High (10+),14109
+54,108668,93,1,Female,Clothing,50+,VIP Spender,High (>80k),Low (1-3),20954
+50,35305,32,14,Female,Groceries,36-50,Low Spender,Low (<50k),Very High (10+),14688
+59,95353,50,19,Male,Sports,50+,Moderate Spender,High (>80k),Very High (10+),41856
+61,96797,61,15,Female,Home,50+,High Spender,High (>80k),Very High (10+),8529
+41,85953,51,18,Female,Home,36-50,Moderate Spender,High (>80k),Very High (10+),18058
+32,77458,19,2,Male,Home,26-35,Low Spender,Medium (50-80k),Low (1-3),19284
+49,40358,21,17,Male,Groceries,36-50,Low Spender,Low (<50k),Very High (10+),20871
+49,23267,5,18,Female,Sports,36-50,Low Spender,Low (<50k),Very High (10+),10568
+41,102745,82,6,Male,Clothing,36-50,VIP Spender,High (>80k),Medium (4-6),62082
+58,109588,92,19,Male,Clothing,50+,VIP Spender,High (>80k),Very High (10+),8859
+29,58513,42,4,Male,Groceries,26-35,Moderate Spender,Medium (50-80k),Medium (4-6),4950
+56,46092,61,1,Female,Home,50+,High Spender,Low (<50k),Low (1-3),30191
+19,31338,22,8,Female,Electronics,18-25,Low Spender,Low (<50k),High (7-9),20301
+20,20412,21,7,Male,Groceries,18-25,Low Spender,Low (<50k),High (7-9),8861
+54,27543,70,3,Female,Groceries,50+,High Spender,Low (<50k),Low (1-3),11267
+34,53496,1,10,Male,Sports,26-35,Low Spender,Medium (50-80k),Very High (10+),12527
+19,80692,5,10,Female,Clothing,18-25,Low Spender,High (>80k),Very High (10+),1909
+19,109084,12,19,Male,Groceries,18-25,Low Spender,High (>80k),Very High (10+),33400
+45,112920,90,14,Male,Groceries,36-50,VIP Spender,High (>80k),Very High (10+),16190
+40,64425,46,2,Female,Home,36-50,Moderate Spender,Medium (50-80k),Low (1-3),10710
+54,58756,34,1,Male,Home,50+,Low Spender,Medium (50-80k),Low (1-3),13390
+49,38888,49,18,Female,Electronics,36-50,Moderate Spender,Low (<50k),Very High (10+),6835
+50,55735,78,7,Female,Sports,36-50,High Spender,Medium (50-80k),High (7-9),9675
+18,67295,90,8,Male,Electronics,18-25,VIP Spender,Medium (50-80k),High (7-9),36894
+36,103042,45,1,Male,Home,36-50,Moderate Spender,High (>80k),Low (1-3),4987
+19,105999,27,3,Female,Clothing,18-25,Low Spender,High (>80k),Low (1-3),34134
+61,37955,73,8,Male,Home,50+,High Spender,Low (<50k),High (7-9),24013
+43,57841,26,15,Male,Sports,36-50,Low Spender,Medium (50-80k),Very High (10+),39953
+49,90640,47,5,Male,Home,36-50,Moderate Spender,High (>80k),Medium (4-6),57570
+23,85510,86,3,Male,Sports,18-25,VIP Spender,High (>80k),Low (1-3),33154
+49,54911,56,19,Male,Sports,36-50,Moderate Spender,Medium (50-80k),Very High (10+),16779
+21,79031,94,1,Female,Sports,18-25,VIP Spender,Medium (50-80k),Low (1-3),25252
+28,108726,63,15,Female,Sports,26-35,High Spender,High (>80k),Very High (10+),41536
+34,27357,48,8,Male,Sports,26-35,Moderate Spender,Low (<50k),High (7-9),14344
+55,52479,61,2,Male,Clothing,50+,High Spender,Medium (50-80k),Low (1-3),32215
+41,81476,81,3,Male,Electronics,36-50,VIP Spender,High (>80k),Low (1-3),8265
+22,64811,26,14,Female,Groceries,18-25,Low Spender,Medium (50-80k),Very High (10+),37511
+51,56208,36,14,Male,Electronics,50+,Low Spender,Medium (50-80k),Very High (10+),35561
+23,40150,1,11,Female,Sports,18-25,Low Spender,Low (<50k),Very High (10+),22337
+39,91180,8,16,Female,Clothing,36-50,Low Spender,High (>80k),Very High (10+),62944
+28,63286,99,4,Female,Home,26-35,VIP Spender,Medium (50-80k),Medium (4-6),8831
+33,88450,52,5,Male,Clothing,26-35,Moderate Spender,High (>80k),Medium (4-6),41214
+50,41352,79,14,Female,Sports,36-50,High Spender,Low (<50k),Very High (10+),3191
+26,75069,47,16,Male,Clothing,26-35,Moderate Spender,Medium (50-80k),Very High (10+),963
+23,34397,56,18,Female,Clothing,18-25,Moderate Spender,Low (<50k),Very High (10+),7294
+33,61555,86,7,Male,Sports,26-35,VIP Spender,Medium (50-80k),High (7-9),13232
+46,66959,14,10,Female,Clothing,36-50,Low Spender,Medium (50-80k),Very High (10+),18775
+20,20728,90,7,Male,Groceries,18-25,VIP Spender,Low (<50k),High (7-9),2090
+37,70517,28,1,Female,Groceries,36-50,Low Spender,Medium (50-80k),Low (1-3),25329
+53,86234,87,19,Male,Clothing,50+,VIP Spender,High (>80k),Very High (10+),53185
+36,59954,78,16,Male,Home,36-50,High Spender,Medium (50-80k),Very High (10+),27507
+43,67280,88,19,Male,Sports,36-50,VIP Spender,Medium (50-80k),Very High (10+),42706
+20,99459,2,4,Male,Groceries,18-25,Low Spender,High (>80k),Medium (4-6),67508
+36,36779,26,18,Female,Home,36-50,Low Spender,Low (<50k),Very High (10+),22343
+37,83932,14,2,Female,Clothing,36-50,Low Spender,High (>80k),Low (1-3),30061
+49,92936,59,1,Male,Home,36-50,Moderate Spender,High (>80k),Low (1-3),62409
+24,44466,56,15,Female,Electronics,18-25,Moderate Spender,Low (<50k),Very High (10+),23437
+58,56939,7,5,Male,Groceries,50+,Low Spender,Medium (50-80k),Medium (4-6),37484
+50,89896,3,11,Male,Clothing,36-50,Low Spender,High (>80k),Very High (10+),8775
+57,55270,23,10,Female,Sports,50+,Low Spender,Medium (50-80k),Very High (10+),23363
+56,79163,18,2,Male,Clothing,50+,Low Spender,Medium (50-80k),Low (1-3),54555
+35,102637,38,3,Male,Sports,26-35,Low Spender,High (>80k),Low (1-3),33202
+57,71934,99,12,Female,Clothing,50+,VIP Spender,Medium (50-80k),Very High (10+),37519
+18,84895,15,5,Male,Home,18-25,Low Spender,High (>80k),Medium (4-6),38559
+28,52307,64,5,Male,Home,26-35,High Spender,Medium (50-80k),Medium (4-6),21989
+45,74098,89,6,Male,Home,36-50,VIP Spender,Medium (50-80k),Medium (4-6),26040
+42,80921,28,9,Male,Electronics,36-50,Low Spender,High (>80k),High (7-9),11011
+40,25486,74,2,Female,Sports,36-50,High Spender,Low (<50k),Low (1-3),2684
+48,28335,39,12,Female,Home,36-50,Low Spender,Low (<50k),Very High (10+),4223
+47,106900,57,3,Female,Electronics,36-50,Moderate Spender,High (>80k),Low (1-3),12012
+59,109112,17,12,Male,Sports,50+,Low Spender,High (>80k),Very High (10+),15836
+52,117203,86,17,Male,Clothing,50+,VIP Spender,High (>80k),Very High (10+),3867
+24,31130,90,10,Female,Electronics,18-25,VIP Spender,Low (<50k),Very High (10+),1002
+33,107508,44,14,Male,Groceries,26-35,Moderate Spender,High (>80k),Very High (10+),41074
+43,80566,25,17,Male,Electronics,36-50,Low Spender,High (>80k),Very High (10+),50123
+19,86703,17,18,Male,Electronics,18-25,Low Spender,High (>80k),Very High (10+),49741
+18,47192,13,19,Male,Sports,18-25,Low Spender,Low (<50k),Very High (10+),3601
+29,21062,84,17,Female,Clothing,26-35,VIP Spender,Low (<50k),Very High (10+),8278
+22,104076,25,14,Female,Groceries,18-25,Low Spender,High (>80k),Very High (10+),35938
+54,109780,68,9,Female,Home,50+,High Spender,High (>80k),High (7-9),14640
+49,41545,10,8,Male,Home,36-50,Low Spender,Low (<50k),High (7-9),13028
+26,41689,67,2,Female,Electronics,26-35,High Spender,Low (<50k),Low (1-3),9600
+58,31174,18,13,Female,Sports,50+,Low Spender,Low (<50k),Very High (10+),16479
+52,108461,86,7,Male,Sports,50+,VIP Spender,High (>80k),High (7-9),35108
+36,29348,34,9,Male,Home,36-50,Low Spender,Low (<50k),High (7-9),648
+33,43714,8,11,Female,Groceries,26-35,Low Spender,Low (<50k),Very High (10+),26892
+20,58102,40,14,Female,Clothing,18-25,Moderate Spender,Medium (50-80k),Very High (10+),3557
+37,94460,83,4,Female,Groceries,36-50,VIP Spender,High (>80k),Medium (4-6),29329
+41,109930,42,13,Female,Clothing,36-50,Moderate Spender,High (>80k),Very High (10+),49189
+50,26801,41,2,Male,Home,36-50,Moderate Spender,Low (<50k),Low (1-3),4078
+41,92267,6,5,Female,Clothing,36-50,Low Spender,High (>80k),Medium (4-6),25448
+28,68136,52,11,Female,Sports,26-35,Moderate Spender,Medium (50-80k),Very High (10+),6124
+25,43625,26,6,Male,Electronics,18-25,Low Spender,Low (<50k),Medium (4-6),3419
+53,102873,64,18,Female,Electronics,50+,High Spender,High (>80k),Very High (10+),26658
+55,92592,98,10,Male,Home,50+,VIP Spender,High (>80k),Very High (10+),44528
+57,97052,59,4,Male,Sports,50+,Moderate Spender,High (>80k),Medium (4-6),11876
+37,64261,56,9,Male,Groceries,36-50,Moderate Spender,Medium (50-80k),High (7-9),37303
+52,21542,59,6,Female,Sports,50+,Moderate Spender,Low (<50k),Medium (4-6),6283
+42,41677,70,2,Female,Electronics,36-50,High Spender,Low (<50k),Low (1-3),8694
+52,66732,33,17,Male,Electronics,50+,Low Spender,Medium (50-80k),Very High (10+),3750
+42,70343,53,5,Female,Sports,36-50,Moderate Spender,Medium (50-80k),Medium (4-6),36955
+46,59081,22,6,Female,Sports,36-50,Low Spender,Medium (50-80k),Medium (4-6),13890
+35,82856,21,12,Male,Electronics,26-35,Low Spender,High (>80k),Very High (10+),43230
+63,113105,70,10,Male,Groceries,50+,High Spender,High (>80k),Very High (10+),30200
+35,108858,70,6,Female,Home,26-35,High Spender,High (>80k),Medium (4-6),35797
+19,39065,4,8,Male,Home,18-25,Low Spender,Low (<50k),High (7-9),25236
+52,103460,94,2,Female,Sports,50+,VIP Spender,High (>80k),Low (1-3),57278
+33,108092,75,12,Female,Home,26-35,High Spender,High (>80k),Very High (10+),61173
+58,74693,62,13,Female,Electronics,50+,High Spender,Medium (50-80k),Very High (10+),41595
+53,46962,62,7,Female,Electronics,50+,High Spender,Low (<50k),High (7-9),13808
+50,48295,94,10,Male,Sports,36-50,VIP Spender,Low (<50k),Very High (10+),11903
+21,33807,95,13,Male,Sports,18-25,VIP Spender,Low (<50k),Very High (10+),20290
+50,62348,24,17,Male,Sports,36-50,Low Spender,Medium (50-80k),Very High (10+),13345
+31,46432,55,14,Male,Groceries,26-35,Moderate Spender,Low (<50k),Very High (10+),32181
+38,103285,9,2,Female,Home,36-50,Low Spender,High (>80k),Low (1-3),64309
+37,111792,3,11,Female,Sports,36-50,Low Spender,High (>80k),Very High (10+),76106
+25,77854,31,1,Male,Clothing,18-25,Low Spender,Medium (50-80k),Low (1-3),48029
+24,60262,40,19,Female,Clothing,18-25,Moderate Spender,Medium (50-80k),Very High (10+),31408
+20,57080,36,4,Female,Electronics,18-25,Low Spender,Medium (50-80k),Medium (4-6),3027
+34,21324,24,19,Female,Home,26-35,Low Spender,Low (<50k),Very High (10+),11628
+50,111267,95,11,Male,Sports,36-50,VIP Spender,High (>80k),Very High (10+),29309
+29,55909,6,8,Male,Clothing,26-35,Low Spender,Medium (50-80k),High (7-9),12389
+39,109339,66,11,Male,Home,36-50,High Spender,High (>80k),Very High (10+),40739
+39,39870,84,4,Female,Electronics,36-50,VIP Spender,Low (<50k),Medium (4-6),10249
+63,54578,92,17,Male,Groceries,50+,VIP Spender,Medium (50-80k),Very High (10+),28265
+47,92124,75,7,Male,Home,36-50,High Spender,High (>80k),High (7-9),24420
+55,46790,4,8,Male,Home,50+,Low Spender,Low (<50k),High (7-9),2053
+55,45289,79,3,Male,Groceries,50+,High Spender,Low (<50k),Low (1-3),14403
+62,75129,6,2,Male,Home,50+,Low Spender,Medium (50-80k),Low (1-3),37178
+25,113714,94,15,Male,Electronics,18-25,VIP Spender,High (>80k),Very High (10+),12966
+44,114246,51,5,Female,Electronics,36-50,Moderate Spender,High (>80k),Medium (4-6),55166
+44,35485,62,1,Female,Groceries,36-50,High Spender,Low (<50k),Low (1-3),13335
+51,64482,57,4,Male,Sports,50+,Moderate Spender,Medium (50-80k),Medium (4-6),27151
+38,106188,66,15,Male,Clothing,36-50,High Spender,High (>80k),Very High (10+),56558
+47,24748,79,19,Female,Sports,36-50,High Spender,Low (<50k),Very High (10+),6403
+50,106769,75,3,Female,Home,36-50,High Spender,High (>80k),Low (1-3),13975
+45,29435,8,11,Male,Clothing,36-50,Low Spender,Low (<50k),Very High (10+),19290
+64,23709,26,17,Male,Groceries,50+,Low Spender,Low (<50k),Very High (10+),11002
+50,50355,51,13,Male,Groceries,36-50,Moderate Spender,Medium (50-80k),Very High (10+),3213
+22,75771,45,11,Male,Clothing,18-25,Moderate Spender,Medium (50-80k),Very High (10+),2116
+36,77799,44,2,Female,Electronics,36-50,Moderate Spender,Medium (50-80k),Low (1-3),20993
+21,33116,5,9,Male,Clothing,18-25,Low Spender,Low (<50k),High (7-9),14937
+52,45470,70,2,Male,Home,50+,High Spender,Low (<50k),Low (1-3),12361
+34,62344,26,9,Male,Electronics,26-35,Low Spender,Medium (50-80k),High (7-9),12894
+61,62918,68,9,Male,Groceries,50+,High Spender,Medium (50-80k),High (7-9),31166
+45,72224,19,8,Female,Clothing,36-50,Low Spender,Medium (50-80k),High (7-9),20199
+47,59298,84,17,Female,Sports,36-50,VIP Spender,Medium (50-80k),Very High (10+),15226
+46,100219,97,1,Female,Sports,36-50,VIP Spender,High (>80k),Low (1-3),7079
+63,81629,20,11,Male,Home,50+,Low Spender,High (>80k),Very High (10+),53703
+23,86040,12,8,Male,Sports,18-25,Low Spender,High (>80k),High (7-9),4758
+52,119518,47,10,Female,Clothing,50+,Moderate Spender,High (>80k),Very High (10+),27660
+58,119835,1,7,Male,Clothing,50+,Low Spender,High (>80k),High (7-9),64326
+54,48016,90,3,Male,Sports,50+,VIP Spender,Low (<50k),Low (1-3),20910
+41,43960,14,3,Female,Clothing,36-50,Low Spender,Low (<50k),Low (1-3),20307
+46,53591,64,18,Female,Home,36-50,High Spender,Medium (50-80k),Very High (10+),34845
+63,102848,38,5,Female,Electronics,50+,Low Spender,High (>80k),Medium (4-6),39603
+48,87641,37,12,Female,Home,36-50,Low Spender,High (>80k),Very High (10+),37829
+52,56395,11,12,Male,Home,50+,Low Spender,Medium (50-80k),Very High (10+),24529
+50,42700,77,19,Male,Clothing,36-50,High Spender,Low (<50k),Very High (10+),7119
+38,54620,3,6,Female,Electronics,36-50,Low Spender,Medium (50-80k),Medium (4-6),20931
+49,40559,33,2,Male,Clothing,36-50,Low Spender,Low (<50k),Low (1-3),10150
